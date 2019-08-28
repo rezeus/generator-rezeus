@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Ozan Müyesseroğlu",
+      "authorEmail": "ozanmuyes@gmail.com",
+      "authorUrl": "https://ozanmuyes.github.io/"
+    }
+  }
+}
